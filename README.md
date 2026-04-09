@@ -1,6 +1,6 @@
 # Us-in-My-Mind
 
-A performance prototype using interactive stage design and spatial tracking. The piece visualizes memories that live within personal space. Images and sounds associated with different areas and objects are pulled into vision as the performer moves throughout the space, and video projections and soundscapes shift as an introduction for the musical performance. This piece prototypes how to introduce themes, topics, soundscapes, and imagery that will be fleshed out in the songs to follow. 
+A performance prototype using interactive stage design and spatial tracking. The piece visualizes memories that live within personal space. Videos and soundscapes associated with different areas and objects are pulled into vision as the performer moves through the space, creating an introduction to the musical performance. This piece prototypes how to introduce themes, topics, soundscapes, and imagery that will be fleshed out in the songs to follow. 
 
 Built with Max/MSP and live video, the performance space is divided into zones, each correlated to a different video and triggered in real time by the performer's location. This work lives at the beginning of an ongoing exploration into musical performance visualization. In this, I am interested in creating a visual world to accompany the acoustic storytelling of a concert. 
 
