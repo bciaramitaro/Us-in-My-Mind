@@ -1,8 +1,8 @@
 # Us-in-My-Mind
 
-A performance prototype using interactive stage design and spatial tracking. The piece visualizes memory connotations that live within personal space — images and sounds tied to different areas and objects — pulled into vision as the performer moves throughout the space. Video projections and sound collages shift in response to position, creating a visual world that introduces the themes, soundscapes, and imagery to be explored in the songs that follow.
+A performance prototype using interactive stage design and spatial tracking. The piece visualizes memory connotations that live within personal space. Corresponding images and sounds tied to different areas and objects are pulled into vision as the performer moves throughout the space. Video projections and sound collages shift in response to position. This creates a visual world that introduces the themes, soundscapes, and imagery to be explored in the songs that follow.
 
-Built with Max/MSP and computer vision, the performance space is divided into zones each correlated to a different video state, triggered in real time by the performer's location. This work lives at the beginning of an ongoing exploration into musical performance visualization.
+Built with Max/MSP and live video, the performance space is divided into zones, each correlated to a different video and triggered in real time by the performer's location. This work lives at the beginning of an ongoing exploration into musical performance visualization.
 
 **Project documentation:** [bellaciaramitaro.com/us-in-my-mind](https://www.bellaciaramitaro.com/us-in-my-mind)
 
