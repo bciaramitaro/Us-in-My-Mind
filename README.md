@@ -2,7 +2,7 @@
 
 A performance prototype using interactive stage design and spatial tracking. The piece visualizes memories that live within personal space. Videos and soundscapes associated with different areas and objects are pulled into vision as the performer moves through the space, creating an introduction to the musical performance. This piece prototypes how to introduce themes, topics, soundscapes, and imagery that will be fleshed out in the songs to follow. 
 
-Built with Max/MSP and live video, the performance space is divided into zones, each correlated to a different video and triggered in real time by the performer's location. This work lives as the beginning of my ongoing exploration into creating visual acoustic storytelling for performance. 
+Built with Max/MSP and live video, the performance space is divided into zones, each correlated to a different video and triggered in real time by the performer's location. This work lives at the beginning of my ongoing exploration into creating visual acoustic storytelling for performance. 
 
 
 **Project documentation:** [bellaciaramitaro.com/us-in-my-mind](https://www.bellaciaramitaro.com/us-in-my-mind)
